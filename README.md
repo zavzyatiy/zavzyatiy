@@ -1,15 +1,18 @@
-## Hi there 👋
+<h3 align="center">
+  Hi there, I'm Roman! 👋
+</h3>
 
+I am a Russian student at Moscow State University studying economics with a particular interest in programming. Currently, my academic pursuits focus on:
 
-**zavzyatiy/zavzyatiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- theoretical foundations of antimonopoly regulations
+- time-series econometrics within the fields of finance and cryptocurrencies
 
-Here are some ideas to get you started:
+This page contains my ongoing and finished projects, which are mostly related to academic or research stuff in these fields.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+If you are interested in my profile or have any questions about my code, you can contact me by email:
+
+<a href="mailto:ermolchukrs@gmail.com" target="_blank">
+
+  ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+  
+</a>

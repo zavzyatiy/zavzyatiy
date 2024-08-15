@@ -1,6 +1,6 @@
-<h3 align="center">
+<h2 align="center">
   Hi there, I'm Roman! 👋
-</h3>
+</h2>
 
 I am a Russian student at Moscow State University studying economics with a particular interest in programming. Currently, my academic pursuits focus on:
 

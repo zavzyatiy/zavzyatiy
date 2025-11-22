@@ -1,5 +1,5 @@
 <h2 align="center">
-  Hi there, I'm Roman! &#129727;
+  Hi there, I'm Roman! &#129438;
 </h2>
 
 I am a Russian student at Moscow State University studying economics with a particular interest in programming. Currently, my academic pursuits focus on:
